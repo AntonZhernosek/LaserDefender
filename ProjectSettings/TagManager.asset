@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Bomb
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - DistortionLayer
+  - DistortedObjectsLayer
+  - PlayerProjectile
+  - EnemyProjectile
+  - NoPostProcessing
+  - Bomb
+  - VFX
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BelowDistortion
+    uniqueID: 2806282639
+    locked: 0
+  - name: DistortionLayer
+    uniqueID: 3327513675
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: VFX
+    uniqueID: 3625129163
+    locked: 0
+  - name: UI
+    uniqueID: 562078513
+    locked: 0

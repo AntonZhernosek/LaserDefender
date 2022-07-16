@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 985a3f817e92928469c2c4b5e6be6c84, type: 3}
+  m_Name: BlackConfig10
+  m_EditorClassIdentifier: 
+  moveSpeed: 3.5
+  timeBetweenEnemySpawns: 1
+  spawnTimeVariance: 0.2
+  minimumSpawnTime: 0.8
+  enemiesList:
+  - {fileID: 487637422717675298, guid: 74439b5f8a46468478c08890e901cbcd, type: 3}
+  - {fileID: 487637422717675298, guid: 4f3b9f66aed6ea047b48f55f253c2317, type: 3}
+  - {fileID: 487637422717675298, guid: 6d449d991ffdc7142960aa09bad670ff, type: 3}
+  - {fileID: 487637422717675298, guid: 51f745f1ba7c6a749bfb75a51648e9e2, type: 3}
+  - {fileID: 487637422717675298, guid: 82852f6029f30314894d5dd57fe19ad4, type: 3}
+  - {fileID: 487637422717675298, guid: 6d449d991ffdc7142960aa09bad670ff, type: 3}
+  - {fileID: 487637422717675298, guid: 82852f6029f30314894d5dd57fe19ad4, type: 3}
+  - {fileID: 487637422717675298, guid: 4f3b9f66aed6ea047b48f55f253c2317, type: 3}
+  - {fileID: 487637422717675298, guid: 74439b5f8a46468478c08890e901cbcd, type: 3}
+  pathPrefab: {fileID: 3664615622069524070, guid: 551e0e79c985f8f43a464d510c00f57f, type: 3}

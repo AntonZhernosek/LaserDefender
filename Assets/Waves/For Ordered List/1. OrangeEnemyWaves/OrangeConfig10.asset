@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 985a3f817e92928469c2c4b5e6be6c84, type: 3}
+  m_Name: OrangeConfig10
+  m_EditorClassIdentifier: 
+  moveSpeed: 3.5
+  timeBetweenEnemySpawns: 1
+  spawnTimeVariance: 0.2
+  minimumSpawnTime: 0.8
+  enemiesList:
+  - {fileID: 487637422717675298, guid: 90c95c97f60395444a59b81e66fc1e04, type: 3}
+  - {fileID: 487637422717675298, guid: b6e4d851393dc2c44a23ef1a1dc99d31, type: 3}
+  - {fileID: 487637422717675298, guid: b6e4d851393dc2c44a23ef1a1dc99d31, type: 3}
+  - {fileID: 487637422717675298, guid: 54d6d8141944f7b4691c0dcf600ba5c5, type: 3}
+  - {fileID: 487637422717675298, guid: 54d6d8141944f7b4691c0dcf600ba5c5, type: 3}
+  - {fileID: 487637422717675298, guid: 90c95c97f60395444a59b81e66fc1e04, type: 3}
+  - {fileID: 487637422717675298, guid: 54d6d8141944f7b4691c0dcf600ba5c5, type: 3}
+  - {fileID: 487637422717675298, guid: f2c2b0d1ed9917542befc4a15f50b329, type: 3}
+  pathPrefab: {fileID: 6185362973786866833, guid: b29be4daa81841a44bba6169022b9482, type: 3}
